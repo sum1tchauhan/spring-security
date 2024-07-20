@@ -1,0 +1,9 @@
+net\javaguides\springboot\entities\User.class
+net\javaguides\springboot\service\impl\UserServiceImpl.class
+net\javaguides\springboot\dto\UserDto.class
+net\javaguides\springboot\RegistrationLoginSystemApplication.class
+net\javaguides\springboot\service\UserService.class
+net\javaguides\springboot\repository\UserRepository.class
+net\javaguides\springboot\controller\AuthController.class
+net\javaguides\springboot\entities\Role.class
+net\javaguides\springboot\repository\RoleRepository.class
